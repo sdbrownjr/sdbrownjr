@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sdbrownjr
 - 👀 I’m interested in data science.
-- 🌱 I’m currently learning rand python. 
+- 🌱 I’m currently learning r and python. 
 - 💞️ I’m looking to collaborate on any type of data science project to get my foot in the door!
 - 📫 How to reach me ...
 
